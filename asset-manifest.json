@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seasons/static/css/main.cb6205dd.css",
+    "main.js": "/seasons/static/js/main.f4a478b7.js",
+    "index.html": "/seasons/index.html",
+    "main.cb6205dd.css.map": "/seasons/static/css/main.cb6205dd.css.map",
+    "main.f4a478b7.js.map": "/seasons/static/js/main.f4a478b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6205dd.css",
+    "static/js/main.f4a478b7.js"
+  ]
+}
